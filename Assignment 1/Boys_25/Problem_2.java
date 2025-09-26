@@ -61,8 +61,5 @@ public class Main {
         } else {
             System.out.println("DDD nao cadastrado"); // If DDD not found
         }
-
-        // Close the Scanner to free resources
-        input.close();
     }
 }
