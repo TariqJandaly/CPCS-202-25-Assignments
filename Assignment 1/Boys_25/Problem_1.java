@@ -57,8 +57,5 @@ public class Main {
 
         // Print the total in the required format with 2 decimal places
         System.out.printf("VALOR A PAGAR: R$ %.2f%n", total);
-
-        // Close the Scanner to free resources
-        input.close();
     }
 }
