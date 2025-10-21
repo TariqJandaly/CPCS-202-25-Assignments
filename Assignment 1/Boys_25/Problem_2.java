@@ -1,16 +1,3 @@
-/*  
-
-    Course : CPCS 202  
-    Name : 
-    University ID : 
-    Section : 
-    Name of lab instructor : 
-    Problem number : 1050  
-    Assignment number : #1  
-    Beecrowd id : 
-
-*/
-
 /*
 
     Description: 

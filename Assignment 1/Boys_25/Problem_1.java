@@ -1,16 +1,3 @@
-/*  
-
-    Course : CPCS 202  
-    Name :
-    University ID :
-    Section :
-    Name of lab instructor :
-    Problem number : 1010  
-    Assignment number : #1  
-    Beecrowd id :
-
-*/
-
 /*
 
     Description: 
@@ -39,9 +26,6 @@ public class Main {
         // Create a Scanner object to read input from the console
         Scanner input = new Scanner(System.in);
         
-        // Set locale to US to ensure the program correctly reads decimal numbers with a dot
-        input.useLocale(Locale.US); 
-
         // Read input for the first product
         int code1 = input.nextInt();      // Product code (not used in calculation)
         int quantity1 = input.nextInt();  // Number of units for product 1
