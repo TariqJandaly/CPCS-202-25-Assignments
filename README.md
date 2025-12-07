@@ -1,10 +1,10 @@
-# 📚 CPCS 202: Programming II (FCIT 25)
+# 📚 CPCS 202: Programming I (FCIT 25)
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![FCIT](https://img.shields.io/badge/Faculty-FCIT-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-This repository contains all programming assignments and problem solutions for the **CPCS 202** course at FCIT (Class of 25).
+This repository contains all programming assignments and solutions to problems for the **CPCS 202** course at FCIT (Class of 25).
 
 ## 📂 Assignments Directory
 
